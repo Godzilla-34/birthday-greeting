@@ -68,19 +68,4 @@ Akses di browser --->  http://localhost:3000
 ----------------------------------------------------------------------------------------------------------------------
 
 
-
-Project ini menggunakan Apache License 2.0.
-Artinya:
-
-✅ Boleh dipakai bebas untuk pribadi maupun komersial.
-
-✅ Boleh diubah & dibagikan lagi, asal tetap mencantumkan nama pembuat asli.
-
-✅ Boleh digabung dengan project lain, tanpa harus buka source code project hasilnya.
-
-✅ Dilindungi dari masalah paten.
-
-❌ Tidak boleh menghapus copyright / credit author asli.
-
-👉 Dengan kata lain:
-Silakan pakai, modifikasi, atau distribusikan project ini sesuka hati, selama tetap mencantumkan credit ke https://github.com/Regie1009 sebagai pembuat asli.
+Author : https://github.com/Regie1009

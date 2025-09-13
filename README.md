@@ -67,6 +67,13 @@ Akses di browser --->  http://localhost:3000
 
 ----------------------------------------------------------------------------------------------------------------------
 
+##Give me a Coffe
+SOL : CBAFLhFRxHsEHsvENAR7n6ZBXLX49nYuJUDcp417t3E2
+EVM : 0x5EA650895e2A371df2D45dBAD6e45651803Be1E6
+--------------
+
+
+
 Project ini menggunakan Apache License 2.0.
 
 
